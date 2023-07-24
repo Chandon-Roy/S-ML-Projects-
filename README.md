@@ -2,7 +2,6 @@
 Several things you can learn through this project below-mentioned objectives:
 - Import Library
 - Import Dataset
-- Data Cleaning
 - Data Wrangling
 - Define Target(y) and Feature(X)
 - Train_test_split
